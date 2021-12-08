@@ -1,8 +1,8 @@
 #!/bin/bash
 
-# Description
-# Author
-# Date 
+# Description: Practicing how to write scripts
+# Author: Neil 
+# Date: 12/8/2021
 
 echo "what is your name"
 read NAME
